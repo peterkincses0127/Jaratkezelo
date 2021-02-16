@@ -16,6 +16,7 @@ namespace Jaratkezelo.Test
             Jarat j1 = new Jarat("15", "Budapest", "Prága", DateTime.Parse("15:00"), 0);
             Assert.AreEqual(0, j1.JaratSzam);
             
+
         }
     }
 }
